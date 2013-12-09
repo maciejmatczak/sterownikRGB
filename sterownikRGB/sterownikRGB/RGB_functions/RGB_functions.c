@@ -152,7 +152,7 @@ void RGB_delta(int r, int g, int b) {
 	pwmb_cnt = tool_sat(pwmb_cnt + b, 0, 511);
 }
 
-// todo: floaty
+// TODO: floaty
 void RGB_hue_to_rgb_mem(uint16_t hue) {
 	/*
 	 * Hue from 0 to 3071 !!!
