@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "sterownikRGB", "sterownikRGB\sterownikRGB.cproj", "{DEDF4E1E-3CC4-4EF5-A66D-DA109AEC1974}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEDF4E1E-3CC4-4EF5-A66D-DA109AEC1974}.Debug|AVR.ActiveCfg = Debug|AVR
+		{DEDF4E1E-3CC4-4EF5-A66D-DA109AEC1974}.Debug|AVR.Build.0 = Debug|AVR
+		{DEDF4E1E-3CC4-4EF5-A66D-DA109AEC1974}.Release|AVR.ActiveCfg = Release|AVR
+		{DEDF4E1E-3CC4-4EF5-A66D-DA109AEC1974}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
